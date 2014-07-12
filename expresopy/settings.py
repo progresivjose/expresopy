@@ -44,7 +44,6 @@ INSTALLED_APPS = (
     'blogs',
     'sorl.thumbnail',
     'taggit',
-    """'django_youtube',"""
 )
 
 MIDDLEWARE_CLASSES = (
@@ -106,11 +105,5 @@ STATIC_URL = '/static/'
 SOUTH_MIGRATION_MODULES = {
         'taggit': 'taggit.south_migrations',
     }
-
-#YOUTUBE API
-YOUTUBE_AUTH_EMAIL    = 'jmanuelgricart@gmail.com' 
-YOUTUBE_AUTH_PASSWORD = 'etES20!1Castel' 
-YOUTUBE_DEVELOPER_KEY = 'AI39si5wzATwFSBUd25hot_e3OkPvdBjvwr9Aq7RH37qFdcqU5O1CvPH5W-QPvsOp9DM8HdJztRa79KaYgk_AeQmUgphw1FRNA'
-YOUTUBE_CLIENT_ID     = '90715320167-tb81a0a0mvn9tlcuv43qjgs9as0uukd0.apps.googleusercontent.com'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
