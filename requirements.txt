@@ -4,7 +4,6 @@ MarkupSafe==0.15
 MySQL-python==1.2.3
 Pillow==2.0.0
 South==0.8.4
-apt-xapian-index==0.45
 apturl==0.4.1ubuntu4
 argparse==1.2.1
 chardet==2.0.1
