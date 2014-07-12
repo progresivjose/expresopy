@@ -60,26 +60,18 @@
 	"buffers":
 	[
 		{
-			"file": "cartoons/models.py",
+			"file": "blogs/admin.py",
 			"settings":
 			{
-				"buffer_size": 355,
+				"buffer_size": 464,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "news/models.py",
+			"file": "blogs/models.py",
 			"settings":
 			{
-				"buffer_size": 662,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "cartoons/admin.py",
-			"settings":
-			{
-				"buffer_size": 445,
+				"buffer_size": 582,
 				"line_ending": "Unix"
 			}
 		},
@@ -87,7 +79,7 @@
 			"file": "expresopy/settings.py",
 			"settings":
 			{
-				"buffer_size": 2692,
+				"buffer_size": 2979,
 				"line_ending": "Unix"
 			}
 		}
@@ -128,9 +120,12 @@
 	},
 	"file_history":
 	[
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/cartoons/models.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/news/models.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/cartoons/admin.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/settings.py",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/editorial/models.py",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/editorial/admin.py",
-		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/settings.py",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/urls.py",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/templates/base.html",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/templates/base.html",
@@ -141,7 +136,6 @@
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/leading_articles/admin.py",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/news/admin.py",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/wsgi.py",
-		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/news/models.py",
 		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/news/Captura_de_pantalla_de_2014-05-16_023414.png",
 		"/home/josemanuel/Documentos/VENV/Sfoti.py/sfotipy/sfotipy/settings.py",
 		"/home/josemanuel/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
@@ -208,18 +202,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "cartoons/models.py",
+					"file": "blogs/admin.py",
 					"settings":
 					{
-						"buffer_size": 355,
+						"buffer_size": 464,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								109,
-								109
+								458,
+								458
 							]
 						],
 						"settings":
@@ -234,45 +228,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "news/models.py",
+					"file": "blogs/models.py",
 					"settings":
 					{
-						"buffer_size": 662,
+						"buffer_size": 582,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								587,
-								587
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "cartoons/admin.py",
-					"settings":
-					{
-						"buffer_size": 445,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								212,
-								212
+								116,
+								116
 							]
 						],
 						"settings":
@@ -286,19 +253,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "expresopy/settings.py",
 					"settings":
 					{
-						"buffer_size": 2692,
+						"buffer_size": 2979,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2689,
-								2689
+								2051,
+								2051
 							]
 						],
 						"settings":
@@ -308,7 +275,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1326.0,
+						"translation.y": 855.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
