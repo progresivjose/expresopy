@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"STAT",
+				"STATIC_URL"
+			],
+			[
+				"htm",
+				"html_entity_decode"
+			],
+			[
+				"ht",
+				"htmlentities"
+			],
+			[
+				"model",
+				"model_class_name"
+			],
+			[
+				"controller",
+				"controller_class_name"
+			],
+			[
+				"cl",
+				"classLoader"
+			],
+			[
+				"call_",
+				"call_user_func_array"
+			],
+			[
+				"call",
+				"call_user_func_array"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"getContro",
+				"getControllerClassName"
+			],
+			[
+				"camel",
+				"camelCase"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"array_s",
+				"array_shift"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cartoons/models.py",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news/models.py",
+			"settings":
+			{
+				"buffer_size": 662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cartoons/admin.py",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "expresopy/settings.py",
+			"settings":
+			{
+				"buffer_size": 2692,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/editorial/models.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/editorial/admin.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/settings.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/urls.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/templates/base.html",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/templates/base.html",
+		"/home/josemanuel/Documentos/VENV/local/lib/python2.7/site-packages/django_youtube/templates/django_youtube/base.html",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/leaders/models.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/leaders/admin.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/leading_articles/models.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/leading_articles/admin.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/news/admin.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/expresopy/wsgi.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/news/models.py",
+		"/home/josemanuel/Documentos/VENV/Expreso.py/expresopy/news/Captura_de_pantalla_de_2014-05-16_023414.png",
+		"/home/josemanuel/Documentos/VENV/Sfoti.py/sfotipy/sfotipy/settings.py",
+		"/home/josemanuel/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/josemanuel/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/josemanuel/vagrant/projects/min-fm/app/models/BaseModel.php",
+		"/home/josemanuel/vagrant/projects/min-fm/core/database.php",
+		"/home/josemanuel/vagrant/projects/min-fm/.htaccess",
+		"/home/josemanuel/vagrant/projects/min-fm/core/core.php",
+		"/home/josemanuel/vagrant/projects/min-fm/config.php",
+		"/home/josemanuel/vagrant/projects/min-fm/app/models/User.php",
+		"/home/josemanuel/vagrant/projects/min-fm/core/Request.class.php",
+		"/home/josemanuel/vagrant/projects/min-fm/core/Library.class.php",
+		"/home/josemanuel/vagrant/projects/min-fm/app/models/Usuario.php",
+		"/home/josemanuel/vagrant/projects/min-fm/core/doctrine/orm/lib/Doctrine/ORM/Tools/Setup.php",
+		"/home/josemanuel/vagrant/projects/min-fm/database.php",
+		"/home/josemanuel/vagrant/projects/min-fm/index.php",
+		"/home/josemanuel/vagrant/projects/min-fm/app/views/Layouts/Default.html",
+		"/home/josemanuel/vagrant/projects/min-fm/app/controllers/UsersController.php",
+		"/home/josemanuel/vagrant/projects/min-fm/app/controllers/BaseController.php",
+		"/home/josemanuel/vagrant/projects/min-fm/app/views/Layouts/Home.html",
+		"/home/josemanuel/vagrant/projects/min-fm/app/views/Users/index.html",
+		"/home/josemanuel/vagrant/projects/min-fm/app/controllers/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/josemanuel/vagrant/projects/min-fm/core/Doctrine"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"create",
+			"DoctrineCommonClassLoader",
+			"$this->controller = array_shift($route);",
+			"(&$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cartoons/models.py",
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "news/models.py",
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cartoons/admin.py",
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "expresopy/settings.py",
+					"settings":
+					{
+						"buffer_size": 2692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2689,
+								2689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1326.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true
+}
