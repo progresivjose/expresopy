@@ -44,7 +44,7 @@ INSTALLED_APPS = (
     'blogs',
     'sorl.thumbnail',
     'taggit',
-    'django_youtube',
+    """'django_youtube',"""
 )
 
 MIDDLEWARE_CLASSES = (
