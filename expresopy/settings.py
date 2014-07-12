@@ -64,10 +64,20 @@ WSGI_APPLICATION = 'expresopy.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 
-DATABASES = {
+"""DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    }
+}"""
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'dd4jh8ctjhgr0n',
+        'USER': 'vdjrzfhclqazyn',
+        'PASSWORD': 'Ryjjir4wDClwd45IdLnZ3U-i7Z',
+        'HOST': 'ec2-54-197-238-242.compute-1.amazonaws.com',   # Or an IP Address that your DB is hosted on
+        'PORT': '3306',
     }
 }
 
