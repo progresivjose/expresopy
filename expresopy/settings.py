@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
     'south',
     'news',
     'editorial',
@@ -63,13 +64,13 @@ WSGI_APPLICATION = 'expresopy.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 
-"""DATABASES = {
+DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
-}"""
-DATABASES = {
+}
+"""DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'dd4jh8ctjhgr0n',
@@ -78,7 +79,7 @@ DATABASES = {
         'HOST': 'ec2-54-197-238-242.compute-1.amazonaws.com',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
-}
+}"""
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
