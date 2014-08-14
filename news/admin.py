@@ -3,8 +3,8 @@ from .models import New
 
 # Register your models here.
 class NewAdmin(admin.ModelAdmin):
-	list_display = ('title', 'created', 'show_tags', 'user')
-	fields = ['title', 'summary', 'text', 'image', 'tags']
+	list_display = ('title', 'category','created', 'show_tags', 'user')
+	fields = ['title', 'summary', 'text', 'category', 'image', 'tags']
 
 	def show_tags(self, obj):
 		tags = obj.tags.names()

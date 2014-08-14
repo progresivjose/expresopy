@@ -4,4 +4,4 @@ class NewSerializer(serializers.ModelSerializer):
 	# serializando las noticias
 	class Meta:
 		model = New
-		fields = ('id', 'title', 'summary', 'text', 'image', 'visits', 'created')
+		fields = ('id', 'title', 'summary', 'text', 'image', 'visits', 'created', 'category')

@@ -1,6 +1,7 @@
 from django.db import models
 from taggit.managers import TaggableManager
 from django.contrib.auth.models import User
+from categories.models import Category
 
 # Create your models here.
 class New(models.Model):
@@ -12,6 +13,7 @@ class New(models.Model):
 	visits   = models.IntegerField(default=0)
 	created  = models.DateTimeField(auto_now_add=True, blank=False)
 	modified = models.DateTimeField(auto_now_add=True, blank=True)
+	category = models.ForeignKey(Category, blank=False, null=False, related_name='new_to_category')
 	tags     = TaggableManager()
 
 	def __unicode__(self):

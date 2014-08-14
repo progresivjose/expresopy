@@ -43,6 +43,7 @@ INSTALLED_APPS = (
     'editorial',
     'cartoons',
     'blogs',
+    'categories',
     'sorl.thumbnail',
     'taggit',
 )
